@@ -2,9 +2,13 @@
 
 katz_deli = []
 
-def line 
-if [] < 1
+def line(array)
+if [katz_deli] < 1
   then 
   puts "The line is currently empty."
 
+end
+
+def take_a_number(array, name)
+  
 end
