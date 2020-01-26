@@ -4,11 +4,10 @@ katz_deli = []
 
 
 def line(array)
-#if [katz_deli] < 1
- # then 
-  #puts "The line is currently empty."
-
+if [katz_deli] = []
+  puts "The line is currently empty."
 end
+line[]
 
 def take_a_number(array, name)
   #puts ""
