@@ -4,9 +4,9 @@ katz_deli = []
 
 
 def line(array)
-if [katz_deli] = []
+   if [katz_deli] = []
   puts "The line is currently empty."
-end
+   end
 end 
 line[]
 
