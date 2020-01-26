@@ -2,6 +2,7 @@
 
 katz_deli = []
 
+
 def line(array)
 if [katz_deli] < 1
   then 
@@ -10,5 +11,11 @@ if [katz_deli] < 1
 end
 
 def take_a_number(array, name)
+  puts ""
+end
+
+def now_serving
+  puts ""
   
+  puts ""
 end
