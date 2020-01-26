@@ -3,14 +3,14 @@
 katz_deli = []
 
 
-def line(array)
+def line(katz_deli)
    if [katz_deli] = []
   puts "The line is currently empty."
    end
 end 
 line[]
 
-def take_a_number(array, name)
+def take_a_number(katz_deli, name)
   #puts ""
 end
 
